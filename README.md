@@ -32,4 +32,5 @@ choose this unsafe site
 due to some reason it is flagged by Google
 
 <img width="1917" height="967" alt="image" src="https://github.com/user-attachments/assets/4c214da0-30e7-41d1-ae19-420febc67a36" />
+<img width="1917" height="972" alt="image" src="https://github.com/user-attachments/assets/aabdd8e2-fb8c-42c8-b43a-43e3e3c12612" />
 
